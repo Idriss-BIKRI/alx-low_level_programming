@@ -5,7 +5,7 @@
   *Return: 0 (success)
   *
   */
-int main(vod)
+int main(void)
 {
 	char ch;
 	for (ch = 'A' ; ch <= 'Z' ; ch++)
@@ -13,3 +13,4 @@ int main(vod)
 		putchar(ch)
 	}
 	return (0);
+}
