@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-  *_islower - print _islower
+  *_islower - show 1 if the input c
   *
-  *Return: 0 always
+  *Return: 1 always
   *
   */
 int _islower(int c);
