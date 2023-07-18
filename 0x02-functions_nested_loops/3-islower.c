@@ -2,6 +2,7 @@
 /**
   *_islower - show 1 if the input c
   *
+  *@c : the character in ASCII code
   *Return: 1 always
   *
   */
