@@ -1,4 +1,4 @@
-include "main"
+include "main.h"
 /**
   *print_alphabet_x10 - preint alphabet in 10 lines
   *
