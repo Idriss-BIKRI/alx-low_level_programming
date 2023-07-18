@@ -1,11 +1,12 @@
 #include "main.h"
 /**
-  *main = _putchar - writes the character c to stdout
+  *main - _putchar
   *
-  *Return: On success 1.
+  *Return: 0 (success).
   *
   */
 int main(void)
+
 {
 	_putchar('_');
 	_putchar('p');
