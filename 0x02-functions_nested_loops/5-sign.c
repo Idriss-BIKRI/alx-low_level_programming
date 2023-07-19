@@ -3,8 +3,8 @@
   *print_sign - determines if the input number
   *greater, iqual or less than zero
   *
-  *@c: the input number as an integer
-  *
+  *@c : the input number as an integer
+  *@n : variable
   *Retunr: 1 is greater than zero. 0 is zero
   *-1 is less than zero.
   */
