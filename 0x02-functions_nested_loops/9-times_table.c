@@ -2,7 +2,7 @@
 /**
   *times_table - print 9 tables
   *
-  *Return: 0 always
+  *Return:  always
   *
   */
 void times_table(void)
