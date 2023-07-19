@@ -26,8 +26,8 @@ void times_table(void)
 			if (k <= 9)
 				_putchar (' ');
 			else
-				_putchar((k / 10) + 48);
-			_putchar((k % 10) + 48);
+				_putchar((k / 10) + 48); /*get the first digit*/
+			_putchar((k % 10) + 48); /*get the second digit*/
 		}
 		_putchar('\n');
 	}
