@@ -18,6 +18,11 @@ void times_table(void)
 			_putchar(' ');
 
 			k = i * k;
+
+			/*
+			 *put space if k is a single number
+			 *place the first digit is its two numbers
+			 */
 			if (k <= 9)
 				_putchar (' ');
 			else
