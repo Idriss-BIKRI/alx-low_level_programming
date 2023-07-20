@@ -14,7 +14,7 @@ void print_remaining_days(int month, int day, int year)
 {
 	/**
 	  *year leap when it can be divided
-	  *by 100 and 400 or by 4 eventualy
+	  *by 100 and 400 or by 4 evenly
 	  */
 	if ((year % 100 == 0 && year % 400 == 0) || (year % 4 == 0))
 	{
